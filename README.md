@@ -2,8 +2,8 @@
 
 # DATA 5405 
 _Course materials for DATA 5405 Python Fundamentals_   
->View as [GitHub pages](https://christopherhuntley.github.io/data5405)  
->View as [GitHub repo](https://github.com/christopherhuntley/data5405)    
+>View as [GitHub pages](https://pmaymin.github.io/data5405)  
+>View as [GitHub repo](https://github.com/pmaymin/data5405)    
 
 ## Getting Started
 1. **Read the [syllabus](Syllabus.md)**, which covers the learning objectives and student expectations for the class. 
