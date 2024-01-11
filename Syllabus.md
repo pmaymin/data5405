@@ -102,6 +102,8 @@ After scaling, the expected grade distribution is approximately:
 - Lessons and projects are assigned and tracked via [Google Classroom](https://classroom.google.com), with work completed in [Google Colab](https://colab.research.google.com/).
 - Assignments will be graded within two days after the submission deadline.
 
+Please note the dates below may be subject to change. Announcements would be made in class, on Google Classroom, and on Slack.
+
 | Module | Topic/Assignment                 | Release | Deadline |
 | :--: |----------------------------------|-------: |--------: |
 | **0**    | **Course Onboarding**            |         |          |
