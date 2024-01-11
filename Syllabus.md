@@ -19,7 +19,7 @@ This course is an introduction to Python, with an emphasis on general programmin
 * To develop proficiency with a professional-level data science toolkit (Jupyter, GitHub, etc.)
 
 ## Instructors
-Philip Z. Maymin
+Philip Z. Maymin  
 Fairfield Dolan, Room 371
 
 Christopher L. Huntley  
