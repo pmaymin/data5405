@@ -2,7 +2,7 @@
 
 # DATA 5405 
 _Course materials for DATA 5405 Python Fundamentals_   
->View as [GitHub pages](https://pmaymin.github.io/data5405)  
+>View as [GitHub pages](https://pmaymin.github.io/)  
 >View as [GitHub repo](https://github.com/pmaymin/data5405)    
 
 ## Getting Started
