@@ -14,7 +14,7 @@ _Course materials for DATA 5405 Python Fundamentals_
    * Want to learn just enough Python to be dangerous? Then yes, this might be the class for you. 
    
    If you find that this class isn't for you then please consult with Phil Maymin at `pmaymin@fairfield.edu` or Leanne De Los Santos at `ldelossantos@fairfield.edu` to find a better fit for you. 
-3. **Complete Lesson 0 by July 12.**
+3. **Complete Lesson 0.**
     * Open the DATA 5405 class in [Google Classroom](. (You should already be enrolled. If not then please let us know.)
     * Under Coursework, Open "Lesson 0." If asked, then "Open with Google Colaboratory."
     * Let us know if you have any questions. 
