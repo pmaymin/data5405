@@ -105,48 +105,47 @@ After scaling, the expected grade distribution is approximately:
 | Module | Topic/Assignment                 | Release | Deadline |
 | :--: |----------------------------------|-------: |--------: |
 | **0**    | **Course Onboarding**            |         |          |
-|      | Lesson 0: Getting Started    |  Jan 13        | Jan 18   |
+|      | Lesson 0: Getting Started    |  Jan 13        | Jan 22   |
 | **1**    | **Getting Started**              |         |          |
-|      | Reading: Py4E Chapters 1 & 2          |         | Jan 18  |
-|      | Lesson 1: Python Preliminaries   |  Jan 13      | Jan 25  |
-|      | Lesson 2: Basic Computation      |  Jan 13      | Jan 25  |
-|      | Datacamp: Python Basics |         | Jan 25  | 
-|      | **_Quiz 1_**                           | **Feb 1** | **Feb 2**  |       
+|      | Reading: Py4E Chapters 1 & 2          |         | Jan 22  |
+|      | Lesson 1: Python Preliminaries   |  Jan 13      | Jan 29  |
+|      | Lesson 2: Basic Computation      |  Jan 13      | Jan 29  |
+|      | Datacamp: Python Basics |         | Jan 29  | 
+|      | **_Quiz 1_**                           | **Feb 5** | **Feb 6**  |       
 | **2**    | **Structured Logic**             |         |          |
-|      | Reading: Py4E Chapter 3          |         | Jan 31   |
-|      | Lesson 3: Conditional Execution  |  Jan 20 | Jan 31 |
-|      | DataCamp: Python Lists           |         | Jan 31  |
-|      | Reading: Py4E Chapter 4          |         | Feb 7  |
-|      | Lesson 4: Functions              |  Jan 20 | Feb 7 |
-|      | DataCamp: Functions and Packages |         | Feb 7  |
-|      | Reading: Py4E Chapter 5          |         | Feb 14  |
-|      | Lesson 5: Iteration              |  Jan 20       | Feb 14 |
+|      | Reading: Py4E Chapter 3          |         | Feb 5   |
+|      | Lesson 3: Conditional Execution  |  Jan 22 | Feb 5 |
+|      | DataCamp: Python Lists           |         | Feb 5  |
+|      | Reading: Py4E Chapter 4          |         | Feb 12  |
+|      | Lesson 4: Functions              |  Jan 22 | Feb 12 |
+|      | DataCamp: Functions and Packages |         | Feb 12  |
+|      | Reading: Py4E Chapter 5          |         | Feb 20  |
+|      | Lesson 5: Iteration              |  Jan 22       | Feb 20 |
 |      | **_Quiz 2_**                     | **Feb 20** | **Feb 21**  |
 | **3**    | **Data Structures**              |         |          |
-|      | DataCamp: Fundamental data types |         | Feb 28  |
-|      | Reading: Py4E Chapter 6          |         | Feb 28  |
-|      | Lesson 6: Strings                |  Feb 17       | Feb 28  |
-|      | Reading: Py4E Chapter 7          |         | March 7 |
-|      | Lesson 7: Files                  |  Feb 17       | Aug 1  |
-|      | Reading: Py4E Chapter 8          |         | March 7  |
-|      | Lesson 8: Lists                  |  Feb 17       | March 21 |
-|      | **_Quiz 3_**                           | **March 27** | **March 28**  |
-|      | Reading: Py4E Chapter 9          |         | March 28  |
-|      | DataCamp: Dictionaries -- the root of Python | | March 28|
-|      | Lesson 9: Dicts                  |   March 11      | March 28  |
-|      | Reading: Py4E Chapter 10         |         | April 4  |
-|      | Lesson 10: Tuples                |   March 11       | April 4 |
-|      | **_Quiz 4_**                           | **April 10** | **April 11** |
-|      | **_Project 1: Challenge Problems_** | **April 12** | **April 18** |
-|      | **Fairfield StartUp Showcase;** you are expected to volunteer | | April 18 5-9pm|  
+|      | DataCamp: Fundamental data types |         | Feb 26  |
+|      | Reading: Py4E Chapter 6          |         | Feb 26  |
+|      | Lesson 6: Strings                |  Feb 19       | Feb 26  |
+|      | Reading: Py4E Chapter 7          |         | Mar 4 |
+|      | Lesson 7: Files                  |  Feb 19       | Mar 4  |
+|      | Reading: Py4E Chapter 8          |         | Mar 11  |
+|      | Lesson 8: Lists                  |  Feb 19       | Mar 18 |
+|      | **_Quiz 3_**                           | **Mar 25** | **Mar 26**  |
+|      | Reading: Py4E Chapter 9          |         | Apr 8  |
+|      | DataCamp: Dictionaries -- the root of Python | | Apr 8 |
+|      | Lesson 9: Dicts                  |   Mar 11      | Apr 8  |
+|      | Reading: Py4E Chapter 10         |         | April 8  |
+|      | Lesson 10: Tuples                |   Mar 11       | Apr 15 |
+|      | **_Quiz 4_**                           | **Apr 8** | **Apr 9** |
+|      | **_Project 1: Challenge Problems_** | **Apr 15** | **Apr 22** |
 | **4** | **Pandas & Matplotlib**     |          |         |
-|      | Lesson 11: pandas Series and DataFrames   | April 7 | April 25|
-|      | DataCamp:  Loading data in pandas    |          | April 25|
-|      | DataCamp: Importing Data from Flat Files |              | April 25|
-|      | Lesson 12: Odds and Ends     | April 7  | May 2|
-|      | DataCamp:  Plotting data with matplotlib     |          | May 2|
-|      | DataCamp:  Different Types of Plots    |          | May 2 |
-|      | **_Project 2: TSA with Pandas_** | **April 25** | **May 9** |
+|      | Lesson 11: pandas Series and DataFrames   | Apr 8 | Apr 29|
+|      | DataCamp:  Loading data in pandas    |          | Apr 29|
+|      | DataCamp: Importing Data from Flat Files |              | Apr 29|
+|      | Lesson 12: Odds and Ends     | Apr 15  | May 6|
+|      | DataCamp:  Plotting data with matplotlib     |          | May 6|
+|      | DataCamp:  Different Types of Plots    |          | May 6 |
+|      | **_Project 2: TSA with Pandas_** | **April 29** | **May 8** |
 
 
 
