@@ -27,7 +27,7 @@ Fairfield Dolan, Room 205E
 
 ## Office Hours
   Office hours are by appointment, bookable at 
-  - [Philip Maymin]([http://philipmaymin.com/book)](https://app.10to8.com/book/imkxylwbfczrvesqfd/)
+  - [Philip Maymin](https://app.10to8.com/book/imkxylwbfczrvesqfd/)
   - [Chris Huntley](https://calendly.com/christopher-huntley/data-5405-office-hours) 
 
 ## Resources
