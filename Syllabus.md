@@ -1,7 +1,7 @@
 <img src="https://github.com/christopherhuntley/BUAN5405-docs/blob/master/Slides/img/Dolan.png?raw=true" width="180px" align="right">
 
 # DATA 5405 Python Fundamentals
-*Spring 2023*
+*Spring 2024*
 ## Course Description
 This course is an introduction to Python, with an emphasis on general programming concepts (structure, logic, data, etc.) that apply to just about any general purpose programming language.  Starting with a review of fundamental programming concepts, the course uses short lessons, quizzes, and coding challenges to cover the basics of how Python is used in a professional Business Analytics setting. The course concludes with a final project designed to demonstrate proficiency. Prerequisites: graduate standing or permission of the instructor.   
 
@@ -18,12 +18,16 @@ This course is an introduction to Python, with an emphasis on general programmin
 * To introduce third-party Python libraries like Pandas and Matplotlib.
 * To develop proficiency with a professional-level data science toolkit (Jupyter, GitHub, etc.)
 
-## Instructor
+## Instructors
+Philip Z. Maymin
+Fairfield Dolan, Room 371
+
 Christopher L. Huntley  
 Fairfield Dolan, Room 205E  
 
 ## Office Hours
   Office hours are by appointment, bookable at 
+  - [Philip Maymin](https://philipmaymin.com/book)
   - [Chris Huntley](https://calendly.com/christopher-huntley/data-5405-office-hours) 
 
 ## Resources
