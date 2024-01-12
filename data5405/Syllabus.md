@@ -98,7 +98,7 @@ After scaling, the expected grade distribution is approximately:
 
 ## Dates and Deliverables
 - [Py4E](https://www.py4e.com) is the *Python for Everybody* textbook.
-- [DataCamp](https://www.py4e.com/) exercises are assigned and tracked online. 
+- [DataCamp](https://www.datacamp.com/) exercises are assigned and tracked online. 
 - Lessons and projects are assigned and tracked via [Google Classroom](https://classroom.google.com), with work completed in [Google Colab](https://colab.research.google.com/).
 - Assignments will be graded within two days after the submission deadline.
 
